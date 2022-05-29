@@ -4,7 +4,7 @@ My name is Xavier, I'm from Spain. I am working professionally in software engin
 
 ## Skills
 
-- My favorite programming languages are C# and Javascript, although I worked in other languages, such as C++ and PHP, and also used various frameworks and libraries, as .NET, React, React Native, Vue.js and Windows Presentation Foundation.
+- My favorite programming languages are C# and C++, although I worked in other languages, such as JavaScript and PHP, and also used various frameworks and libraries, as .NET, React, React Native, Vue.js and Windows Presentation Foundation.
 
 - I worked in desktop, mobile, and web applications, as well in creating REST APIs.
 
