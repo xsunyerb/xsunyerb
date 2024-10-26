@@ -4,10 +4,6 @@ My name is Xavier, I'm from Spain. I am working professionally in software engin
 
 ## Skills
 
-- My favorite programming languages are C# and C++, although I worked in other languages, such as JavaScript and PHP, and also used various frameworks and libraries, as .NET, React, React Native, Vue.js and Windows Presentation Foundation.
-
-- I worked in desktop, mobile, and web applications, as well in creating REST APIs.
-
-- I like DevOps culture, and the idea of increasing the collaboration between the roles of development and operations.
-
-- In recent years, I worked in cloud architecture, mainly Azure. I like to create CI/CD pipelines in Github and Azure DevOps, and use Terraform to create infrastructure as code.
+-	Programming languages: C#, Typescript, C/C++, Python, PowerShell.
+-	Technologies: Azure, Linux, REST, SQL, IaC, CI/CD, Git, Github, Terraform, Helm, Kubernetes, Kafka, OAuth.
+-	Frameworks: React, React Native, .NET, Entity Framework, Scrum
